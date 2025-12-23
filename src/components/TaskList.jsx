@@ -41,6 +41,7 @@ function TaskList() {
     backgroundColor: "white",
     padding: '30px',
     borderRadius: '10px',
+    marginTop: '10px',
   }
 
   return (
